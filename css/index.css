@@ -40,8 +40,17 @@ padding-top: 30px;
 }
 .button{
   animation: Btn 2.8s infinite;
+  transition: background-color 1.0s;
+  background-color: #fc5000;
+}
+
+
+
+.button:hover{
+  background-color: #f90;
 
 }
+
 h4{
   font-family: QuickSand,sans-serif;
 }
@@ -64,10 +73,11 @@ height: 60px;
       transform: scale(1);
   }
 }
-#c.visible{
+#c{
   animation: ea 1.5s forwards;
 
 }
+
 
 @-webkit-keyframes ea
 {0%
@@ -268,3 +278,4 @@ height: 60px;
     align-items: center;
     justify-content: center;
 }
+
