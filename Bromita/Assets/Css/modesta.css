@@ -1,0 +1,22 @@
+p{
+    background-image: url('https://media.discordapp.net/attachments/970384202396749864/987133491890233394/AnheX_faltoso_de_originalidad.webp');
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.1);
+    background-attachment: center;
+    -webkit-background-size: ce;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    font-size: 14px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    display: center;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    max-width: 1280px;
+    max-height: 800px;
+    background-color: rgb(2, 2, 2);
+}
